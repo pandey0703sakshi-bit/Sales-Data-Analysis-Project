@@ -85,6 +85,7 @@ This project analyzes an e-commerce sales dataset to uncover meaningful business
 ### 📈 Sales Trend
 
 ![Sales Trend]([images/sales_trend.png](https://github.com/pandey0703sakshi-bit/Sales-Data-Analysis-Project/blob/ba5baa37c2d8190e543465251490185bd5f824e5/Sales_trend.png))
+
 Sales increased significantly after 2016, showing strong business growth.
 
 ---
@@ -92,6 +93,7 @@ Sales increased significantly after 2016, showing strong business growth.
 ### 🛍️ Sales by Category
 
 ![Category Sales](images/category_sales.png)
+
 Technology leads in revenue, indicating high demand for tech products.
 
 ---
@@ -99,6 +101,7 @@ Technology leads in revenue, indicating high demand for tech products.
 ### 🌍 Sales by Region
 
 ![Region Sales](images/region_sales.png)
+
 West region dominates sales, while South shows potential for improvement.
 
 ---
