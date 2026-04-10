@@ -84,7 +84,7 @@ This project analyzes an e-commerce sales dataset to uncover meaningful business
 
 ### 📈 Sales Trend
 
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](images/Sales_trend.png)
 
 Sales increased significantly after 2016, showing strong business growth.
 
